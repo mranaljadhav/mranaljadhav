@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
 - 👯 I’m looking to collaborate on Data Science 
-- 💬 Ask me about ...
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me: 
 
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:mranaljadhav@gmail.com) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://in.linkedin.com/in/mranal-jadhav-728ab9aa)
