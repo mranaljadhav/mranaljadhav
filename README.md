@@ -1,5 +1,7 @@
 ### Hi there <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">
 
+I am a data science lover who loves data and solving challenging real-world problems. I have experience with data cleaning and wrangling, exploratory data analysis with visualization, data modeling, and deploying models. I am eager to educate myself to keep up with the latest data science trends. 
+
 - 🔭 I’m currently working on Ecommerce Project
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
 - 👯 I’m looking to collaborate on Data Science 
