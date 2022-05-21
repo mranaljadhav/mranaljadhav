@@ -1,11 +1,10 @@
 ### Hi there <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">
 
-I am a data science lover who loves data and solving challenging real-world problems. I have experience with data cleaning and wrangling, exploratory data analysis with visualization, data modeling, and deploying models. I am eager to educate myself to keep up with the latest data science trends. 
+I am a big data lover who loves data and solving challenging real-world problems. I have experience with data cleaning and wrangling, exploratory data analysis with visualization, data modeling, and deploying models. I am eager to educate myself to keep up with the latest Big Data trends. 
 
 - 🔭 I’m currently working on Ecommerce Project
-- 🌱 I’m currently learning Machine Learning and Deep Learning 
-- 👯 I’m looking to collaborate on Data Science 
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+- 🌱 I’m currently learning Spark 
+- 👯 I’m looking to collaborate on Big Data 
 - 📫 How to reach me: 
 
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:mranaljadhav@gmail.com) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://in.linkedin.com/in/mranal-jadhav-728ab9aa)
