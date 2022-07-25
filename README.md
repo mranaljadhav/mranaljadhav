@@ -6,7 +6,7 @@ I am a big data lover who loves data and solving challenging real-world problems
 - 👯 I’m looking to collaborate on Big Data 
 - 📫 How to reach me: 
 
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:mranaljadhav@gmail.com) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://in.linkedin.com/in/mranal-jadhav-728ab9aa)
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:mranaljadhav@gmail.com)
 
   
 ### Language and Tool I know 
